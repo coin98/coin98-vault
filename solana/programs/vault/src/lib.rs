@@ -10,7 +10,7 @@ use constants::{
 };
 use std::convert::TryInto;
 
-declare_id!("VT2uRTAsYJRavhAVcvSjk9TzyNeP1ccA6KUUD5JxeHj");
+declare_id!("VAU1T98eWi9uxHbED9i6ueoTRLy1dGcNfDBwdCSNQ3e");
 
 #[program]
 mod coin98_vault {
